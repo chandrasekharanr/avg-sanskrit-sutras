@@ -1,6 +1,6 @@
 
 
-वृत्तिः इवर्णोवर्णोपधाद्धलादेः रलन्तात्परौ क्त्वासनौ सेटौ वा कितौ स्तः । When used with the augment “इट्”, the affixes “क्त्वा” and “सन्” are optionally treated as “कित्” (having ककारः as a इत्) when they follow a verbal root which begins with a constant and ends in a रल् letter and has either a इवर्णः (इकारः/ईकारः) or a उवर्णः (उकारः/ऊकारः) as its penultimate letter.
+वृत्तिः -- इवर्णोवर्णोपधाद्धलादेः रलन्तात्परौ क्त्वासनौ सेटौ वा कितौ स्तः । When used with the augment “इट्”, the affixes “क्त्वा” and “सन्” are optionally treated as “कित्” (having ककारः as a इत्) when they follow a verbal root which begins with a constant and ends in a रल् letter and has either a इवर्णः (इकारः/ईकारः) or a उवर्णः (उकारः/ऊकारः) as its penultimate letter.
 
 
 उदाहरणम् – लिलिखिषति/लिलेखिषति is a desiderative form derived from √लिख् (लिखँ गत्यर्थः १. १७०, लिखँ अक्षरविन्यासे ६. ९२)

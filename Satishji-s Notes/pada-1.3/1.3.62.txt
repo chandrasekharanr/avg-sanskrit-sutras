@@ -1,6 +1,6 @@
 
 
-वृत्तिः सनः पूर्वो यो धातुस्तेन तुल्यं सन्नन्तादप्यात्मनेपदं स्यात् । A सन्नन्त-धातुः (verbal root ending in the affix “सन्”) takes a आत्मनेपद-प्रत्यय: in the same manner as the verbal root to which the affix सन् is added.
+वृत्तिः -- सनः पूर्वो यो धातुस्तेन तुल्यं सन्नन्तादप्यात्मनेपदं स्यात् । A सन्नन्त-धातुः (verbal root ending in the affix “सन्”) takes a आत्मनेपद-प्रत्यय: in the same manner as the verbal root to which the affix सन् is added.
 
 Note: This implies that if the धातु: to which the affix सन् is added is आत्मनेपदी/परस्मैपदी/उभयपदी then the सन्नन्त-धातुः is correspondingly आत्मनेपदी/परस्मैपदी/उभयपदी।
 

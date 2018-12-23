@@ -1,6 +1,6 @@
 
 
-वृत्तिः द्वित्वनिमित्तेऽचि अच आदेशो न द्वित्वे कर्तव्ये। While reduplication is yet to be done, a substitution shall not be made in the place of a vowel on the basis of a vowel that is the cause for reduplication.
+वृत्तिः -- द्वित्वनिमित्तेऽचि अच आदेशो न द्वित्वे कर्तव्ये। While reduplication is yet to be done, a substitution shall not be made in the place of a vowel on the basis of a vowel that is the cause for reduplication.
 
 Note: This rule only temporarily stops the substitution until reduplication is done. Once reduplication is done, the substitution does takes place.
 
